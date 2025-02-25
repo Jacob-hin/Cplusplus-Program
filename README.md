@@ -47,3 +47,10 @@ I interpreted the needs of the user by carefully examining their requirements fo
 
 #How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 In software design, I started by analyzing functional and non-functional requirements and then structured the code with object-oriented principles. In the future, I would apply Agile techniques like creating user stories and collaborating closely with stakeholders to ensure the design is adaptable and meets evolving needs.
+
+
+
+
+#CS-300 Course Reflection
+For these projects I created an advising program that efficiently loads, stores, and manages the data for courses using a well-defined data structure. The problem required designing pseudocode for vector, hash table, and tree implementations, do Big O analyses, and finally select the best data structure based on runtime and memory efficiency. I began by writing pseudocode, paying close attention to how each data structure would retrieve an input file, create course objects, and subsequently manage the operations that would follow in a menu driven way. Through this process, I was reminded of the vital importance data structures have in optimizing performance, especially with searching, sorting, and displaying course information. 
+During the project, I also faced challenges, such as parsing complex files and sorting the course data in an alphanumeric way. I tackled these roadblocks by going back to pseudocode, unit testing smaller portions of my code, and utilizing IDE debugging tools. This experience reaffirmed the importance that planning and analysis take precedence over implementation in software design process. On top of that, it sharpened my coding standards, as I had to follow industry practices, such as naming reserves clearly, writing in-line comments explaining the purpose of code, and implementing error handling logic to ensure the code is maintainable and easy to read, and future enhancements are possible. 
