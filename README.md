@@ -69,3 +69,14 @@ The Pirate Intelligent Agent program used a deep Q-learning algorithm to train a
 
 In this course, I learned that computer scientists solve problems using logic, algorithms, and varying data structures. These tools are leveraged to help automate tasks, analyze information, and enhance decision-making. As a computer scientist, breaking problems into manageable components, testing iteratively, and improving the system through performance metrics were key to constructing a successful program. Additionally, computer scientists have ethical responsibilities to the end user and organization to create safe, fair, transparent programs that respect user privacy.
 
+
+
+
+#CS-360 Course Reflection
+The inventory management program was designed for small companies who need a simple, non-integrated program to efficiently manage stock. It fulfills the users' needs by offering easy account access and open product tracking using four primary screens: sign-in, registration, inventory view, and add product. Each of the screens places emphasis on ease of use, using clean design and simple features to make its use an uncomplicated experience.
+
+I developed the app by adding and testing one feature at a time, having modulated code and dividing UI and logic. Testing at each step enabled early detection of issues and ensuring functionality, such as refreshing inventory when new items are being added. Seamless interaction between the front end and the database was one of the biggest challenges, particularly when synchronizing inventory in real-time. I catered to this by carefully controlling data flow and giving uniform read/write operations.
+
+The view screen for the inventory was the highlight, where data handling, state management, and UI principles helped give a responsive and user-focused experience, showing my user-centered design and coding abilities.
+
+
