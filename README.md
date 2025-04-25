@@ -60,3 +60,12 @@ During the project, I also faced challenges, such as parsing complex files and s
 
 #CS-255 Course Reflection
 The DriverPass project involved designing a cloud-hosted system that automated the management of lessons, customer accounts, payments, and DMV communications, ultimately aiding drivers in successfully passing their driving tests through streamlined support and guidance. The client wanted an all-in-one solution to support their customers, instructors, administrators, and support staff, incorporating lesson scheduling, online classes, and practice tests. One of my strengths was my ability to take user needs and synthesize those requirements into an intuitive, usable design — specifically, through a smooth integration of the scheduling, payment, and notification components. If I could change one thing, it would be to refine the notification system to allow for more real-time communication to avoid possible delays. Understanding user requirements and expectations is integral to designing a system that can go beyond just functionality, to one that adds value to all the stakeholders involved. I believe in requirement analysis, drawing detailed diagrams, and thinking in terms of users while designing software. Moving forward, I would rely on iterative design and prototyping to validate concepts early and respond to feedback quickly.
+
+
+
+
+#CS-370 Course Reflection
+The Pirate Intelligent Agent program used a deep Q-learning algorithm to train a pirate agent to solve a maze. The code provided included a class representing the environment and a class that stored the agent's episodes. I was tasked with implementing an algorithm to train the agent where experience is stored, learned from, and used to interact with the environment by choosing from a set of action possibilities. 
+
+In this course, I learned that computer scientists solve problems using logic, algorithms, and varying data structures. These tools are leveraged to help automate tasks, analyze information, and enhance decision-making. As a computer scientist, breaking problems into manageable components, testing iteratively, and improving the system through performance metrics were key to constructing a successful program. Additionally, computer scientists have ethical responsibilities to the end user and organization to create safe, fair, transparent programs that respect user privacy.
+
